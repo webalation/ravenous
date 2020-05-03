@@ -25,7 +25,7 @@ const businesses = [
 ];
 
 class App extends React.Component {
-  render(){
+  render() {
     return (
       <div className="App">
         <h1>ravenous</h1>
