@@ -24,7 +24,7 @@ const Yelp = {
 							reviewCount: business.review_count
 						}
 					})
-					:
+					: console.log('Error: invalid response from Yelp API')
 		});
 	}
 }
