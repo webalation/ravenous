@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1fb1b0365629bc8e0b2586a2d8eeb24",
+    "revision": "86d3279db3f963ae6793b30ba18f099b",
     "url": "/ravenous/index.html"
   },
   {
-    "revision": "9ead249cbab94d369a61",
+    "revision": "679decb6694d63d0354e",
     "url": "/ravenous/static/css/main.83d0e067.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ravenous/static/js/2.2d239d7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ead249cbab94d369a61",
-    "url": "/ravenous/static/js/main.0ad57835.chunk.js"
+    "revision": "679decb6694d63d0354e",
+    "url": "/ravenous/static/js/main.dc982a5a.chunk.js"
   },
   {
     "revision": "9632db665afb2db74baa",
