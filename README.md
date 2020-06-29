@@ -4,5 +4,5 @@
 
 ## Live Demo
 
-[Click here](https://webalation.github.io/jammming/) to view the live demo.
+- [Click here](https://webalation.github.io/jammming/) to view the live demo.
 
